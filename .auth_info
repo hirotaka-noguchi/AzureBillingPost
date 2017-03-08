@@ -1,7 +1,7 @@
 [Azure]
 AZURE_API_VER = 2015-06-01-preview
 AZURE_TENANT_ID = 
-AZURE_CLIENT_ID = 
+AZURE_CLIENT_ID = hirotaka-noguchi@mail.nissan.co.jp
 AZURE_CLIENT_PW = 
 AZURE_SUBSCRIPTIONS = 
 
