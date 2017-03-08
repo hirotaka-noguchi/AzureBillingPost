@@ -6,5 +6,4 @@ AZURE_CLIENT_PW =
 AZURE_SUBSCRIPTIONS = 
 
 [slack]
-WEBHOOK_URL = https://hooks.slack.com/services/XXXXXXXXXX/XXXXXXXXX/XXXXXXXXXXXXX
-
+WEBHOOK_URL = https://hooks.slack.com/services/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
